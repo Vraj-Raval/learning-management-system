@@ -37,7 +37,7 @@ Make sure you have the following installed:
    ```sh
    cd backend
    npm install
-   npm start
+   npm run dev
    ```
 
 3. **Frontend Setup:**
